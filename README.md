@@ -65,6 +65,14 @@
 >> webpack can do many optimizations to reduce the output size. It also cares about request caching by using hashes.
 
 --
+> 优化
+>> webpack 能做许多优化去减少输出大小。它还通过使用哈希值关心请求缓存。
+
+--
+> Development Tools
+>> webpack supports SourceUrls and SourceMaps for simple debugging. It can watch your files and comes with a development middleware and a development server for automatic reloading.
+
+--
 > 
 
  
