@@ -5,7 +5,7 @@
 * extensible
 * open source
 
-> module bundler.
+ module bundler.
 --
 
  
