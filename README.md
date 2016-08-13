@@ -6,12 +6,13 @@
 * open source -------- module bundler.
 
 --
-> webpack--批量的，公正的的，灵活的，可扩展的，模块捆绑器
+> __webpack--批量的，公正的的，灵活的，可扩展的，模块捆绑器__
 
 --
 > Welcome to the webpack documentation!
-==
-> 欢迎查阅webpack文档
+
+--
+> __欢迎查阅webpack文档__
 
 --
  
