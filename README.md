@@ -23,6 +23,8 @@
 --
 > Plugins
 >> webpack has a rich plugin interface. Most of the features are internal plugins using this interface. This makes webpack very flexible.
+
+--
 > 插件
 >> webpack 有一个丰富的插件接口。大部分功能都是内部插件利用这个接口实现的。这个接口使webpack非常的灵活。
 
