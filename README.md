@@ -37,4 +37,34 @@
 >> webpack 使用异步 I/O，并且具有多个缓存级别。这使得 webpack 快速并在增量编译上极快。
 
 --
+> Loaders
+>> webpack supports pre-processing files via loaders. This allows you to bundle any static resource not only javascript. You can easily write your own loaders running in node.js.
+
+--
+> 加载器
+>> webpack 支持通过加载器预处理文件。这允许你打包任何静态资源文件而不仅仅是javascript。你能容易写你自己的加载器运行在node.js中。
+
+--
+> Support
+>> webpack supports AMD and CommonJs module styles. It performs clever static analysis on the AST of your code. It even has an evaluation engine to evaluate simple expressions. This allows you to support most existing libraries.
+
+--
+> 支持
+>> webapck 支持 AMD 和 CommonJs 模块风格。它在你代码的抽象语法树上执行智能的静态分析。 它甚至有一个运算引擎去运算简单的表达式。这允许你支持大部分现存的库。
+
+--
+> Code Splitting
+>>　webpack allows to split your codebase into chunks. Chunks are loaded on demand. This reduces initial loading time.
+
+--
+> 代码拆分
+>> webpack 允许拆分你的代码库进多个块中。块按需被加载。这缩小了初始加载时间。
+
+--
+> Optimizations
+>> webpack can do many optimizations to reduce the output size. It also cares about request caching by using hashes.
+
+--
+> 
+
  
