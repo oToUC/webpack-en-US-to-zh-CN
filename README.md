@@ -74,7 +74,7 @@
 
 --
 > 开发工具
->> webpack为简单调试支持SourceUrls 和 SourceMaps.它可以监视你的文件并且伴随一个开发中间件和开发服务器给自动重新加载。
+>> **webpack为简单调试支持SourceUrls 和 SourceMaps.它可以监视你的文件并且伴随一个开发中间件和开发服务器给自动重新加载。**
 
 --
 > Multiple targets
@@ -82,6 +82,6 @@
 
 --
 > 多目标
->> webpack 的主要目标是 web，但它也支持给 WebWorkers 和 node.js 打包。
+>> **webpack 的主要目标是 web，但它也支持给 WebWorkers 和 node.js 打包。**
 
  
