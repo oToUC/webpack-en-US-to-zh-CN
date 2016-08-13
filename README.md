@@ -26,7 +26,15 @@
 
 --
 > 插件
->> webpack 有一个丰富的插件接口。大部分功能都是内部插件利用这个接口实现的。这个接口使webpack非常的灵活。
+>> webpack 有一个丰富的插件接口。webpack大部分功能都是内部插件利用这个接口实现的。这个接口使webpack非常的灵活。
 
+--
+> Performance
+>> webpack uses async I/O and has multiple caching levels. This makes webpack fast and incredibly fast on incremental compilation.
 
+--
+> 性能
+>> webpack 使用异步 I/O，并且具有多个缓存级别。这使得 webpack 快速并在增量编译上极快。
+
+--
  
