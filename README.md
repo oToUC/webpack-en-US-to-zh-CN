@@ -73,6 +73,15 @@
 >> webpack supports SourceUrls and SourceMaps for simple debugging. It can watch your files and comes with a development middleware and a development server for automatic reloading.
 
 --
-> 
+> 开发工具
+>> webpack为简单调试支持SourceUrls 和 SourceMaps.它可以监视你的文件并且伴随一个开发中间件和开发服务器给自动重新加载。
+
+--
+> Multiple targets
+>> webpack's main target is the web, but it also supports generating bundles for WebWorkers and node.js.
+
+--
+> 多目标
+>> webpack 的主要目标是 web，但它也支持给 WebWorkers 和 node.js 打包。
 
  
