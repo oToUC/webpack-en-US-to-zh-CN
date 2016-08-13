@@ -14,11 +14,11 @@
 
 --
 > Browse the contents in the left sidebar
->> *你可以从左边浏览到相关的文档目录。*
+>> **你可以从左边浏览到相关的文档目录。**
 
 --
 > If you are new to webpack, you may want to start by reading this page or the Getting started section on the left.
->> *如果你对webpack没有经验，你可能需要首先阅读这一页或者左边上的入门指南模块。*
+>> **如果你对webpack没有经验，你可能需要首先阅读这一页或者左边上的入门指南模块。**
 
 --
 > Plugins
@@ -26,7 +26,7 @@
 
 --
 > 插件
->> webpack 有一个丰富的插件接口。webpack大部分功能都是内部插件利用这个接口实现的。这个接口使webpack非常的灵活。
+>> **webpack 有一个丰富的插件接口。webpack大部分功能都是内部插件利用这个接口实现的。这个接口使webpack非常的灵活。**
 
 --
 > Performance
@@ -34,7 +34,7 @@
 
 --
 > 性能
->> webpack 使用异步 I/O，并且具有多个缓存级别。这使得 webpack 快速并在增量编译上极快。
+>> **webpack 使用异步 I/O，并且具有多个缓存级别。这使得 webpack 快速并在增量编译上极快。**
 
 --
 > Loaders
@@ -42,7 +42,7 @@
 
 --
 > 加载器
->> webpack 支持通过加载器预处理文件。这允许你打包任何静态资源文件而不仅仅是javascript。你能容易写你自己的加载器运行在node.js中。
+>> **webpack 支持通过加载器预处理文件。这允许你打包任何静态资源文件而不仅仅是javascript。你能容易写你自己的加载器运行在node.js中。**
 
 --
 > Support
@@ -50,7 +50,7 @@
 
 --
 > 支持
->> webapck 支持 AMD 和 CommonJs 模块风格。它在你代码的抽象语法树上执行智能的静态分析。 它甚至有一个运算引擎去运算简单的表达式。这允许你支持大部分现存的库。
+>> **webapck 支持 AMD 和 CommonJs 模块风格。它在你代码的抽象语法树上执行智能的静态分析。 它甚至有一个运算引擎去运算简单的表达式。这允许你支持大部分现存的库。**
 
 --
 > Code Splitting
@@ -58,7 +58,7 @@
 
 --
 > 代码拆分
->> webpack 允许拆分你的代码库进多个块中。块按需被加载。这缩小了初始加载时间。
+>> **webpack 允许拆分你的代码库进多个块中。块按需被加载。这缩小了初始加载时间。**
 
 --
 > Optimizations
