@@ -1,9 +1,9 @@
-> webpack
->> the production
->> the unbiased
->> the flexible
->> the extensible
->> open source
-module bundler.
+> webpack, the
+* production
+* unbiased
+* flexible
+* extensible
+* open source
+>> module bundler.
 
  
