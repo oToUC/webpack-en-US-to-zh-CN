@@ -74,7 +74,7 @@
 
 --
 > 开发工具
->> **webpack为简单调试支持SourceUrls 和 SourceMaps.它可以监视你的文件并且伴随一个开发中间件和开发服务器给自动重新加载。**
+>> **webpack为简单调试支持SourceUrls 和 SourceMaps.它可以监视你的文件并且为了自动重新加载伴随一个开发中间件和开发服务器。**
 
 --
 > Multiple targets
