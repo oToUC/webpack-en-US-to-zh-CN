@@ -48,3 +48,6 @@ This is how you would handle a modularized code base if you didn’t use a modul
 <script src="module3.js"></script>
 ```
 
+--
+如果你之前没有用过模块系统，这个风格将是你如何处理一个模块化后的代码库。
+
