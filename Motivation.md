@@ -22,7 +22,7 @@ A big code base needs to be organized. Module systems offer the option to split 
 MODULE SYSTEM STYLES(模块系统风格)
 --
 There are multiple standards for how to define dependencies and export values:
-+ <script>-tag style (without a module system)
++ `<script>`-tag style (without a module system)
 + CommonJS
 + AMD and some dialects of it
 + ES6 modules
@@ -30,7 +30,7 @@ There are multiple standards for how to define dependencies and export values:
 
 --
 有许多的标准给如何定义依赖和导出值：
-+ <script>-标签风格(在模块系统之外)
++ `<script>`-标签风格(在模块系统之外)
 + CommonJS
 + AMD 和它的一些分支
 + ES6 modules
