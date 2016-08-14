@@ -48,4 +48,3 @@ This is how you would handle a modularized code base if you didn’t use a modul
 <script src="module3.js"></script>
 ```
 
-
