@@ -20,6 +20,8 @@ A big code base needs to be organized. Module systems offer the option to split 
 一个大的代码库需要被组织。模块系统提供选择去拆分你的代码库成多个模块。
 
 MODULE SYSTEM STYLES（模块系统风格）
+--
+
 There are multiple standards for how to define dependencies and export values:
 
 + <script>-tag style (without a module system)
