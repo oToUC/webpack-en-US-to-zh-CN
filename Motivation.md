@@ -23,7 +23,6 @@ MODULE SYSTEM STYLES（模块系统风格）
 --
 
 There are multiple standards for how to define dependencies and export values:
-
 + <script>-tag style (without a module system)
 + CommonJS
 + AMD and some dialects of it
