@@ -124,6 +124,15 @@ Asynchronous Module Definition
 
 Other module systems (for the browser) had problems with the synchronous require (CommonJS) and introduced an asynchronous version (and a way to define modules and exporting values):
 
+``` javascript
+require(["module", "../file"], function(module, file) { /* ... */ });
+define("mymodule", ["dep1", "dep2"], function(d1, d2) {
+  return someExportedValue;
+});
+```
+
+
+
 
 
 
