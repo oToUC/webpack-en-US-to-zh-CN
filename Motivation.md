@@ -88,6 +88,48 @@ It’s used server-side by node.js.
 
 它通过node.js被用于服务端。
 
+###Pros
++ Server-side modules can be reused.
++ There are already many modules written in this style (npm).
++ Very simple and easy to use.
+
+###Cons
++ Blocking calls do not apply well on networks. Network requests are asynchronous.
++ No parallel require of multiple modules
+
+###Implementations
++ node.js - server-side
++ browserify
++ modules-webmake - compile to one bundle
++ wreq - client-side
+
+
+###优点
++ 服务端模块可重用
++ 这种风格已经有许多模块采用编写(npm)
++ 非常简单并且易用
+
+###缺点
++ 阻塞调用在网络上不适用。网络请求应是异步的。
++ 多模块没有平行请求
+
+###Implementations (实现)
+* [node.js](http://nodejs.org/) - server-side
+* [browserify](https://github.com/substack/node-browserify)
+* [modules-webmake](https://github.com/medikoo/modules-webmake) - compile to one bundle
+* [wreq](https://github.com/substack/wreq) - client-side
+
+###AMD: asynchronous require
+Asynchronous Module Definition
+
+Other module systems (for the browser) had problems with the synchronous require (CommonJS) and introduced an asynchronous version (and a way to define modules and exporting values):
+
+
+
+
+
+
+
 
 
 
